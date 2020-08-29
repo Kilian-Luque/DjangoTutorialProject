@@ -1,0 +1,13 @@
+li a {
+    color: #C8791D; /* Set links color to soft orange */
+    font-size: 1.5em;
+}
+
+ul {
+  list-style-type: none; /* Remove lists dots */
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+    background-size: cover;
+}
